@@ -17,8 +17,9 @@
 - In-house assessor for company-wide coding challenge scheme.
 - Researched and designed company digital solution for Board-level review process (Microsoft Power App).
 - Researched and led benchmarking of whole of organisation appraisal process in preparation for introduction of Oracle Fusion platform.
-- Code First Girls Sprint, Machine Learning
-- Code First Girls Sprint, Solving Problems with Python
+- Code First Girls Sprint, CVs and Applications - completed
+- Code First Girls Sprint, Machine Learning - completed
+- Code First Girls Sprint, Solving Problems with Python - completed
 
 ### Work Experience
 - Talent and career management lead across large, complex organisation, 2019-current
