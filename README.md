@@ -1,8 +1,8 @@
 # Target role: Software Engineer / Data scientist
 
 ### Education
-- MSc Coaching and Behavioural Change
-- BSc Physics
+- Masters in Coaching and HRM
+- Degree in Physics
 
 ### Certificates/courses
 - CS50x Harvard MOOC
@@ -14,14 +14,14 @@
 
 ### Tech Experience
 - Hackathon in UI/UX role, team came 2nd overal out of 10 teams. Won Apple prize for best design.
-- In-house assessor for company-wide coding challenge scheme.
-- Researched and designed company digital solution for Board-level review process (Microsoft Power App).
-- Researched and led benchmarking of whole of organisation appraisal process in preparation for introduction of Oracle Fusion platform.
+- In-house assessor for coding challenge scheme.
+- Researched and designed digital solution for annual review process (Microsoft Power App).
+- Researched and led benchmarking of appraisal process in preparation for new HR platform.
 - Code First Girls Sprint, CVs and Applications - completed
 - Code First Girls Sprint, Machine Learning - completed
 - Code First Girls Sprint, Solving Problems with Python - completed
 
 ### Work Experience
-- Talent and career management lead across large, complex organisation, 2019-current
-- Organisational change and business development work, 2015-2019
-- Early career: Various HR, support to operations, and project management roles.
+- Talent management lead, 2019-current
+- Organisational change and business development work, to 2019
+- Early career: Various HR and project management roles.
