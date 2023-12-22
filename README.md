@@ -19,7 +19,7 @@
 - Researched and led benchmarking of appraisal process in preparation for new HR platform.
 - Code First Girls Sprint, CVs and Applications - completed
 - Code First Girls Sprint, Machine Learning - completed
-- Code First Girls Sprint, Solving Problems with Python - completed
+- Code First Girls Challenge, Solving Problems with Python - finalist
 
 ### Work Experience
 - Talent management lead, 2019-current
